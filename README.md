@@ -18,10 +18,8 @@ pip install scrapy
 1. Clone the repository or download the source code:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/raoumairwaheed/Wallpaper-Crawler-using-Scrapy
 ```
-
 2. Run the Spider:
 
 ```bash
